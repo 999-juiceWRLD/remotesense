@@ -1,0 +1,4 @@
+1-) Applied Geospatial Data Science with Python (David S. Jordan)
+2-) Elements of Photogrammetry with Apllications in GIS (Paul R. Wolf)
+3-) Geoinformation Remote Sensing, Photogrammetry and Geographic Information Systems (Konecny)
+4-) Photogrammetry, Geometry from Images and Laser Scans (Karl Kraus)
