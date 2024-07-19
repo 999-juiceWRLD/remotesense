@@ -28,7 +28,7 @@ The Ju88D-1, German aerial reconnaisance plane.
 
 Advancements in instrumentation and techniques in photogrammetry have continued at a rapid pace through the remainder of the 20th, and into the 21st century. The many advancements have collectively enabled photogrammetry to become the most accurate and efficient method available for compiling maps and generating topographic information. The improvements have affected all aspects of the science, and they incorporate many new developments such as those in optics, electronics, computers and satellite technology.
 
-The two fundamental types of photography used in the science of photogrammetry are *terrestrial* and *aerial*. DMI is working with aerial photos as it currently has two active planes, Navajo and Bonanza. With the airborne digital sensors mounted on the planes company obtains and evaluates the aerial photographs in the process of making a map.
+The two fundamental types of photography used in the science of photogrammetry are *terrestrial* and *aerial*. Company is working with aerial photos as it currently has two active planes, Navajo and Bonanza. With the airborne digital sensors mounted on the planes company obtains and evaluates the aerial photographs in the process of making a map.
 
 ## Topography
 
@@ -38,7 +38,7 @@ Topography is the study of the forms and features of land surfaces. The topograp
 
 ![topo-2](/images/abstract-topographic-map.jpg)
 
-Topography is a field of geoscience and planetary science and is concerned with local detail in general, including not only relief, but also natural, artificial, and cultural features such as roads, land boundaries, and buildings. In the United States, topography often means specifically relief, even though the USGS topographic maps record not just elevation contours, but also roads, populated places, structures, land boundaries, and so on (This also counts for DMI, using several softwares like Vr One & Microstation).
+Topography is a field of geoscience and planetary science and is concerned with local detail in general, including not only relief, but also natural, artificial, and cultural features such as roads, land boundaries, and buildings. In the United States, topography often means specifically relief, even though the USGS topographic maps record not just elevation contours, but also roads, populated places, structures, land boundaries, and so on (This also counts for the company, using several softwares like Vr One & Microstation).
 
 <!-- company image (belki ldl126) -->
 
